@@ -1,0 +1,24 @@
+Staff List
+-------------------------
+
+Waiters:
+[] Benny Roberts
+[] Olivia Carter
+[] Jack Barr
+[] Matt Bruce
+
+Chef:
+[] Daniel Barr
+[] Zoey Atkins
+[] Bipin Smith
+
+Kitchen Assistant:
+[] Charllotte Brett
+[] Darien Huber
+
+Cleaners:
+[] Kim Abott
+[] Joe Nugent-Brant
+
+Manager:
+[] Damian Barr

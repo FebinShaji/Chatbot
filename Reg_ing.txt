@@ -1,0 +1,91 @@
+Regular Food Menu
+----------------------------------
+
+Appetizer:
+------------------------
+
+Fried Zucchini:
+[] Zucchini, Eggs, Milk, Salt/Pepper, Flour, Parmesan Cheese,
+   Breadcrumbs, Garlic Powder, Italian Seasoning, Olive Oil
+
+Mozzarella Sticks:
+[] Flour, Breadcrumbs, Eggs, Milk, Mozzarella Cheese, Vegetable Oil,
+   Marinara Sauce
+
+Buffalo Wings:
+[] Chicken Wings, Vegetable Oil, Celery Sticks, Salt, Garlic Cloves,
+   Hot Sauce, Cider Vinegar, Caster Sugar, Blue Cheese, Onion,
+   Buttermilk, Creme Fraiche
+
+Nachos:
+[] Olive Oil, Onion, Smoked Paprika, Cumin, Chilli Powder, Black Beans,
+   Tortilla Chips, Cheddar, Tomatoes, Black Pepper, Soured Cream, Lime
+
+Cheese Fries:
+[] Steak Fries, Cheddar Cheese, Garlic Powder, Onion Powder, Paprika
+
+Pasta:
+------------------------
+
+Pomodoro:
+[] Vermicelli Pasta, Olive Oil, Onion, Garlic, Plum Tomatoes, Balsamic Vinegar,
+   Chicken Stock, Chillies, Pepper, Basil, Parmesan Cheese
+
+Bolognese:
+[] Olive Oil, Bacon, Onions, Carrots, Celery Sticks, Garlic Cloves, Rosemary,
+   Beef Mince, Plum Tomatoes, Basil, Oregano, Bay Leaves, Tomato Puree, Beef Stock,
+   Red Chilli, Red Wine, Cherry Tomatoes, Parmesan, Spaghetti
+
+Salsiccia Mezzaluna:
+[] Mezzaluna Pasta, Luganica Sausage, Radiccio, Butter, Hazelnuts, Beef Dripping,
+   Pangrattato Crumbs
+
+Strozzapretti Pesto Rosso:
+[] Strozzapretti Pasta, Chicken Breast, Olive Oil, Chilli Paste, Spring Onions,
+   Creme Fraiche, Vegetable Stock, Red Pesto
+
+Chorizo Carbonara:
+[] Penne Pasta, Chorizo, Red Chilli, Rosemary, Olive Oil, Garlic, Eggs, Lemon, Yoghurt
+
+Ox Cheek Ragu:
+[] Ox Cheek, Tomatoes, Red Wine, Pappardelle Pasta, Beef Dripping, Pangrattato Crumbs
+
+Pizza:
+------------------------
+
+Margherita:
+[] Bread Flour, Yeast, Salt, Olive Oil, Passata, Basil, Garlic Clove, Mozzarella,
+   Parmesan, Cherry Tomatoes
+
+Pepperoni:
+[] White Flour, Yeast, Salt, Warm Water, Olive Oil, Passata, Red Pepper, Pepperoni,
+   Mozzarella, Basil, Pepper
+
+Piccante:
+[] Pizza Flour, Salt, Yeast, Warm Water, Salami, Red Onion Rings, Mozzarella, Olive Oil
+
+Gamberoni:
+[] Prawns, Garlic, Chillies, Olive Oil, Tomatoes, Red Chillies, Sugar, Tomato Puree,
+   Basil, Parmesan Cheese, Pizza Flour, Salt, Yeast, Warm Water
+
+Diavola Forte:
+[] Olive Oil, Yeast, Baker's Flour, Tomatoes, Hot Salami, Jalapenos, Scamorza
+
+Sides:
+------------------------
+
+Chips:
+[] Potatoes, Sunflower Oil, Sea Salt, Vinegar
+
+Coleslaw:
+[] Cabbage, Red Onion, Carrot, Mayonnaise, Lemon Juice, White Wine Vinegar, Mustard,
+   Sugar, Salt, Pepper
+
+Beans:
+[] Green Beans, Olive Oil, Garlic, Sesame Seeds, Salt, Pepper, Lemon Juice
+
+Onion Rings:
+[] Onion, Groundnut Oil, Self-raising Flour, Sparkling Water
+
+Salad:
+[] Lettuce, Cucumber, Cheese, Carrot, Tomatoes, Salt, Pepper

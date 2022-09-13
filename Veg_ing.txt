@@ -1,0 +1,87 @@
+Vegetarian Food Menu
+----------------------------------
+
+Appetizer:
+------------------------
+
+Fried Zucchini:
+[] Zucchini, Eggs, Milk, Salt/Pepper, Flour, Parmesan Cheese,
+   Breadcrumbs, Garlic Powder, Italian Seasoning, Olive Oil
+
+Mozzarella Sticks:
+[] Flour, Breadcrumbs, Eggs, Milk, Mozzarella Cheese, Vegetable Oil,
+   Marinara Sauce
+
+Buffalo Wings:
+[] Chicken Wings, Vegetable Oil, Celery Sticks, Salt, Garlic Cloves,
+   Hot Sauce, Cider Vinegar, Caster Sugar, Blue Cheese, Onion,
+   Buttermilk, Creme Fraiche
+
+Nachos:
+[] Olive Oil, Onion, Smoked Paprika, Cumin, Chilli Powder, Black Beans,
+   Tortilla Chips, Cheddar, Tomatoes, Black Pepper, Soured Cream, Lime
+
+Cheese Fries:
+[] Steak Fries, Cheddar Cheese, Garlic Powder, Onion Powder, Paprika
+
+Pasta:
+------------------------
+
+Pomodoro:
+[] Vermicelli Pasta, Olive Oil, Onion, Garlic, Plum Tomatoes, Balsamic Vinegar,
+   Chicken Stock, Chillies, Pepper, Basil, Parmesan Cheese
+
+Zucca Dolcelatte:
+[] Olive Oil, Spaghetti, Mushrooms, Cheese, Creme Fraiche, Rocket, Salt, Pepper
+
+Funghi Crema:
+[] White Wine, Butter, Shallot, Mushrooms, Salt, Pepper, Parmesan, Olive Oil,
+   Garlic, Parsley, Tagliatelle Pasta
+
+Pesto Genovese:
+[] Olive Oil, Pasta, Basil, Parmesan Cheese, Pecorino Cheese, Potatoes, Green Beans,
+   Garlic Cloves, Pine Nuts, Salt
+
+Lentil Linguine Ragu:
+[] Butter, Onion, Celery, Garlic Clove, Carrots, Thyme, Tomato Puree, Lentils,
+   Vegetable Stock, Tomatoes, Salt, Pepper, Linguine, Parsley
+
+Pizza:
+------------------------
+
+Margherita:
+[] Bread Flour, Yeast, Salt, Olive Oil, Passata, Basil, Garlic Clove, Mozzarella,
+   Parmesan, Cherry Tomatoes
+
+Primavera:
+[] Asparagus, Red Onion, Pepper, Pizza Flour, Yeast, Olive Oil, Warm Water, Fontina Cheese
+
+Formaggio Funghi:
+[] Mushrooms, Orgeano, Mozarella, Passata, Pepper, Salt, Flour, Yeast, Warm Water, Olive Oil
+
+Funghi Pompeii:
+[] Pizza Flour, Yeast, Warm Water, Olive Oil, Mozzarella, Eggplant, Zucchini, Bell Pepper,
+   Onion Rings, Passata
+
+Melanzane:
+[] Pizza Flour, Yeast, Warm Water, Olive Oil, Mozzarella, Mushrooms, Garlic, Parmesan,
+   Passata
+
+Sides:
+------------------------
+
+Chips:
+[] Potatoes, Sunflower Oil, Sea Salt, Vinegar
+
+Coleslaw:
+[] Cabbage, Red Onion, Carrot, Mayonnaise, Lemon Juice, White Wine Vinegar, Mustard,
+   Sugar, Salt, Pepper
+
+Beans:
+[] Green Beans, Olive Oil, Garlic, Sesame Seeds, Salt, Pepper, Lemon Juice
+
+Onion Rings:
+[] Onion, Groundnut Oil, Self-raising Flour, Sparkling Water
+
+Salad:
+[] Lettuce, Cucumber, Cheese, Carrot, Tomatoes, Salt, Pepper
