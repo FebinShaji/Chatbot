@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -fdump-rtl-expand -g    CMakeFiles/chatbot.dir/main.c.o CMakeFiles/chatbot.dir/menu.c.o CMakeFiles/chatbot.dir/ingredients.c.o CMakeFiles/chatbot.dir/staff.c.o CMakeFiles/chatbot.dir/seating.c.o  -o chatbot -rdynamic 
